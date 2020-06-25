@@ -1,0 +1,10 @@
+C:\Users\usuario\Documents\myPenDrive\Taller de Lenguaje I\2020\trabajo practico 7 taller\AlexisAleTrabajoPractico7\bin\Debug\AlexisAleTrabajoPractico7.exe.config
+C:\Users\usuario\Documents\myPenDrive\Taller de Lenguaje I\2020\trabajo practico 7 taller\AlexisAleTrabajoPractico7\bin\Debug\AlexisAleTrabajoPractico7.exe
+C:\Users\usuario\Documents\myPenDrive\Taller de Lenguaje I\2020\trabajo practico 7 taller\AlexisAleTrabajoPractico7\bin\Debug\AlexisAleTrabajoPractico7.pdb
+C:\Users\usuario\Documents\myPenDrive\Taller de Lenguaje I\2020\trabajo practico 7 taller\AlexisAleTrabajoPractico7\obj\Debug\AlexisAleTrabajoPractico7.csprojAssemblyReference.cache
+C:\Users\usuario\Documents\myPenDrive\Taller de Lenguaje I\2020\trabajo practico 7 taller\AlexisAleTrabajoPractico7\obj\Debug\AlexisAleTrabajoPractico7.Calculadora.resources
+C:\Users\usuario\Documents\myPenDrive\Taller de Lenguaje I\2020\trabajo practico 7 taller\AlexisAleTrabajoPractico7\obj\Debug\AlexisAleTrabajoPractico7.Properties.Resources.resources
+C:\Users\usuario\Documents\myPenDrive\Taller de Lenguaje I\2020\trabajo practico 7 taller\AlexisAleTrabajoPractico7\obj\Debug\AlexisAleTrabajoPractico7.csproj.GenerateResource.cache
+C:\Users\usuario\Documents\myPenDrive\Taller de Lenguaje I\2020\trabajo practico 7 taller\AlexisAleTrabajoPractico7\obj\Debug\AlexisAleTrabajoPractico7.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Documents\myPenDrive\Taller de Lenguaje I\2020\trabajo practico 7 taller\AlexisAleTrabajoPractico7\obj\Debug\AlexisAleTrabajoPractico7.exe
+C:\Users\usuario\Documents\myPenDrive\Taller de Lenguaje I\2020\trabajo practico 7 taller\AlexisAleTrabajoPractico7\obj\Debug\AlexisAleTrabajoPractico7.pdb
